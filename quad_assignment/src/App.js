@@ -1,11 +1,12 @@
 
 import './App.css';
-import Todo from './components/Todo';
+import AllRoutes from './components/AllRoutes';
+
 
 function App() {
   return (
     <div className="App">
-     <Todo />
+   <AllRoutes />
     </div>
   );
 }
